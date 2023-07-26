@@ -24,6 +24,17 @@
 - ADsP
 - SQLD
 
+### Blog
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=DEStudy)](https://statistics-fox.tistory.com)
+
+### Git Summary
+___
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weed0328&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weed0328&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weed0328&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=weed0328&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weed0328&theme=dark&utcOffset=8)
+
 
 
 <!--
